@@ -68,3 +68,6 @@ For the latest Wrangler documentation, [click here](https://developers.cloudflar
 ## Contributing
 
 Refer to the [`CONTRIBUTING.md`](/CONTRIBUTING.md) guide for details.
+
+
+<!-- Security scan triggered at 2026-09-05 07:31:28 -->
